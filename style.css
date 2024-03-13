@@ -1,4 +1,6 @@
 body{
     text-align: center;
-    block-size: auto;
+}
+p{
+    border-radius: 40%;
 }
