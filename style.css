@@ -1,8 +1,4 @@
 body{
-    text-align: center;
-}
-p{
     text-align: justify;
-    border-width: medium;
-    border-style: solid;
+    text-align: center;
 }
