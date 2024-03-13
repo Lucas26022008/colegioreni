@@ -2,5 +2,6 @@ body{
     text-align: center;
 }
 p{
-    border-radius: 40%;
+    border-width: medium;
+    border-style: solid;
 }
